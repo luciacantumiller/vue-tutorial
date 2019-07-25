@@ -1,5 +1,5 @@
 <template>
-    <p>About</p>
+    <h1 class="fint-normal"> Logo</h1>
 </template>
 
 <script>
