@@ -1,5 +1,7 @@
 <template>
-    <h1 class="fint-normal"> Logo</h1>
+    <h1>
+        Whoops! 404.
+    </h1>
 </template>
 
 <script>
