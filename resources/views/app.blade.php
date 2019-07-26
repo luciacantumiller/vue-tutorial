@@ -13,7 +13,7 @@
         <div id="app">
             <div class="container mx-auto">
                 <header class="py-6 mb-8">
-                    <h1 class="text-bold">Laracast</h1>
+                    <img src="https://assets.laracasts.com/images/logo.svg" alt="laracasts_logo">
                 </header>
 
                 <main class="flex">
